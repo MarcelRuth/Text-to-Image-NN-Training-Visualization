@@ -39,4 +39,4 @@ Change the settings in the run_example.py file and start creating cool videos!
 
 Xylene | ML-Xylene
 :-: | :-:
-<img src="examples/Aromatic.png" width="350" title="Xylene"> | <video src='videos/Aromatic.gif' width=350/>
+<img src="examples/Aromatic.png" width="350" title="Xylene"> | ![](videos/Aromatic.gif)
