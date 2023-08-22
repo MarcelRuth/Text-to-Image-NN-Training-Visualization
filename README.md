@@ -35,5 +35,8 @@ pip install -r requirements.txt
 Change the settings in the run_example.py file and start creating cool videos!
 
 
-Example:
-![alt text](https://github.com/MarcelRuth/Text-to-Image-NN-Training-Visualization/blob/main/examples/Aromatic.png?raw=true)
+# Example:
+<p align="center">
+  <img src="examples/Aromatic.png" width="500" title="Xylene">
+  <img src="videos/Aromatic.mp4" width="500" title="Xylene Learned by NN">
+</p>
