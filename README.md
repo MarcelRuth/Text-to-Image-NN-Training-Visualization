@@ -37,6 +37,6 @@ Change the settings in the run_example.py file and start creating cool videos!
 
 # Example:
 <p align="center">
-  <img src="examples/Aromatic.png" width="500" title="Xylene">
-  <img src="videos/Aromatic.mp4" width="500" title="Xylene Learned by NN">
+  <img src="examples/Aromatic.png" width="350" title="Xylene">
+  <vid src="videos/Aromatic.mp4" width="500" title="Xylene Learned by NN">
 </p>
