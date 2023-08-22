@@ -1,5 +1,11 @@
 # Text-to-Image Neural Network Training Visualization
 
+# Example:
+
+Xylene | ML-Xylene
+:-: | :-:
+![](examples/Aromatic.png) | ![](videos/Aromatic.gif)
+
 # Inspired and Partly copied from https://github.com/MaxRobinsonTheGreat/mandelbrotnn
 
 This repository contains code to visualize the training of a neural network model in PyTorch. 
@@ -35,8 +41,3 @@ pip install -r requirements.txt
 Change the settings in the run_example.py file and start creating cool videos!
 
 
-# Example:
-
-Xylene | ML-Xylene
-:-: | :-:
-![](examples/Aromatic.png) | ![](videos/Aromatic.gif)
