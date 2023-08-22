@@ -38,5 +38,5 @@ Change the settings in the run_example.py file and start creating cool videos!
 # Example:
 <p align="center">
   <img src="examples/Aromatic.png" width="350" title="Xylene">
-  <video src="videos/Aromatic.mp4" width="500" type="video/mp4">
 </p>
+![](videos/Aromatic.mp4)
