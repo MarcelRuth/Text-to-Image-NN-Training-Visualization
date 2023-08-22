@@ -33,3 +33,10 @@ cd Text-to-Image-NN-Training-Visualization
 pip install -r requirements.txt
 ### Run Your Training Script:
 Change the settings in the run_example.py file and start creating cool videos!
+
+
+# Example:
+
+Xylene | ML-Xylene
+:-: | :-:
+<img src="examples/Aromatic.png" width="350" title="Xylene"> | <video src='videos/Aromatic.mp4' width=350/>
