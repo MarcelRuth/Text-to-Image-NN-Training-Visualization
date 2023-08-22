@@ -33,3 +33,7 @@ cd Text-to-Image-NN-Training-Visualization
 pip install -r requirements.txt
 ### Run Your Training Script:
 Change the settings in the run_example.py file and start creating cool videos!
+
+
+Example:
+![alt text](https://github.com/MarcelRuth/Text-to-Image-NN-Training-Visualization/blob/main/examples/Aromatic.png?raw=true)
