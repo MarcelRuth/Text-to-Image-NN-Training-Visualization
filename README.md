@@ -6,7 +6,7 @@ Xylene | ML-Xylene
 :-: | :-:
 ![](examples/Aromatic.png) | ![](videos/Aromatic.gif)
 
-# Inspired and Partly copied from https://github.com/MaxRobinsonTheGreat/mandelbrotnn
+# Inspired and partly copied from https://github.com/MaxRobinsonTheGreat/mandelbrotnn
 
 This repository contains code to visualize the training of a neural network model in PyTorch. 
 The neural network is trained to learn 2D representations of a given text or picture.
